@@ -37,3 +37,6 @@ If the data is not linearly separable, SVM can project it into a higher-dimensio
 * Medical diagnosis
 
 * Text classification
+
+
+Dataset Link : https://www.kaggle.com/c/dogs-vs-cats/data
